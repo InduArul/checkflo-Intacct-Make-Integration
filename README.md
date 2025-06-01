@@ -53,7 +53,7 @@ The result?
 |------|---------|
 | `flow.json` | Exported scenario (Make.com flow blueprint) |
 | `Checkflo_Payload_sample.json` | Sample webhook or invoice data (dummy data) |
-| `checkflo_intacct_detailed_flow_diagram.png` | (screenshots of the flow) |
+| `checkflo_intacct_detailed_flow_diagram.png` | screenshots of the flow |
 
 ---
 
