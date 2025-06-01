@@ -53,14 +53,11 @@ The result?
 |------|---------|
 | `flow.json` | Exported scenario (Make.com flow blueprint) |
 | `Checkflo_Payload_sample.json` | Sample webhook or invoice data (dummy data) |
-| `/assets` | (screenshots of the flow, sample file formats, etc.) |
-| `/docs/flow-description.md` | Detailed step-by-step explanation of the automation |
+| `checkflo_intacct_detailed_flow_diagram.png` | (screenshots of the flow) |
 
 ---
 
 ## 🔄 Workflow Overview
-
-![Flow Diagram](assets/integration-diagram.png)
 
 1. **Trigger:** Scheduled or webhook-based pull from Intacct  
 2. **Transform:** Format data for Checkflo + write to Excel tracker  
