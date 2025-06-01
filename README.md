@@ -51,7 +51,7 @@ The result?
 
 | File | Purpose |
 |------|---------|
-| `Make.com flow.json` | Exported scenario (Make.com flow blueprint) |
+| `flow.json` | Exported scenario (Make.com flow blueprint) |
 | `Checkflo_Payload_sample.json` | Sample webhook or invoice data (dummy data) |
 | `/assets` | (screenshots of the flow, sample file formats, etc.) |
 | `/docs/flow-description.md` | Detailed step-by-step explanation of the automation |
